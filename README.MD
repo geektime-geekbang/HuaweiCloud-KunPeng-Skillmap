@@ -9,7 +9,7 @@
 
 
 ## 华为云鲲鹏软件栈 
-**为您提供常用软件、迁移和部署指南，助力业务快速运行至鲲鹏平台 [了解全部软件栈](https://www.huaweicloud.com/kunpeng/software.html)**
+>**为您提供常用软件、迁移和部署指南，助力业务快速运行至鲲鹏平台 [了解全部软件栈](https://www.huaweicloud.com/kunpeng/software.html)**
 
 类别 | 名称 |  说明
 :-: | :-: |-
