@@ -54,9 +54,9 @@
 在线课程 | [加速HPC与AI融合创新-TaiShan HPC解决方案介绍](https://education.huaweicloud.com:8443/courses/course-v1:HuaweiX+CBUCNXK004+Self-paced/about)
 在线课程 | [云手机服务](https://education.huaweicloud.com:8443/courses/course-v1:HuaweiX+CBUCNEI005+Self-paced/about)
 微认证 | [华为云鲲鹏弹性云服务器高可用性架构实践](https://edu.huaweicloud.com/certifications/e82ceaa01c1c4ca58d01084999edcaa6)
-云端实验室 (即将上线) | 使用华为云鲲鹏弹性云服务器部署Node.js项目
-云端实验室 (即将上线) | 使用华为云鲲鹏弹性云服务器部署文字识别Tesseract项目
-云端实验室 (即将上线) | 使用华为云鲲鹏弹性云服务器部署Discuz!项目
+云端实验室  | [使用华为云鲲鹏弹性云服务器部署Node.js项目](https://ilearn.huaweicloud.com/lab/testdetail.html?testId=338)
+云端实验室 | [使用华为云鲲鹏弹性云服务器部署文字识别Tesseract项目](https://ilearn.huaweicloud.com/lab/testdetail.html?testId=342)
+云端实验室  | [使用华为云鲲鹏弹性云服务器部署Discuz!项目](https://ilearn.huaweicloud.com/lab/testdetail.html?testId=396)
 
 
 
